@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Hello World!</h1>
-    <p>Welcome to the Sic Guild website.</p>
+    <h3>Welcome to the Sic Guild website.</h3>
 </body>
 </html>
